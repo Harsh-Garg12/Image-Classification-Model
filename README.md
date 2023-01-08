@@ -16,3 +16,8 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 'sea' -> 4,
 
 'street' -> 5
+
+<h1><u> Model Used </u></h1>
+Fine-Tuning Pre-trained Model VGG-16
+
+![image](https://user-images.githubusercontent.com/80332356/211193085-c90e6038-14da-4e04-8ee9-9912d888f610.png)
